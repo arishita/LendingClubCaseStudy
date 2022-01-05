@@ -26,9 +26,9 @@ In other words, to understand the driving factors (or driver variables) behind l
 The company can utilise this knowledge for its portfolio and risk assessment. And thus minimise the risk of losing money while lending to customers.
 
 ### Steps That We Followed
-Step 1 - Data Cleaning
-Step 2 - Analysis
-Step 3 - Missing Value And Outliers Treatment
-Step 4 - Univariate Analysis
-Step 5 - Segmented Analysis 
-Step 6 - Bivariate Analysis
+Step 1 - Data Cleaning <br>
+Step 2 - Analysis <br>
+Step 3 - Missing Value And Outliers Treatment <br>
+Step 4 - Univariate Analysis <br>
+Step 5 - Segmented Analysis <br>
+Step 6 - Bivariate Analysis <br>
