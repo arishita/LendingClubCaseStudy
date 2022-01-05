@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > You work for a consumer finance company Lending Club which specialises in lending various types of loans to urban customers. This company is the largest 
 online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate 
 loans through a fast online interface. When the company receives a loan application, the company has to make a decision for loan approval based on the 
@@ -14,7 +14,7 @@ Charged-off: Applicant has not paid the instalments in due time for a long perio
 2. Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is 
 no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
-#Business Objectives
+## Business Objectives
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the
 amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the 
 largest amount of loss to the lenders.
@@ -25,12 +25,10 @@ credit loss. Identification of such applicants using EDA is the aim of this case
 In other words, to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
 The company can utilise this knowledge for its portfolio and risk assessment. And thus minimise the risk of losing money while lending to customers.
 
-Steps that are performed
-
+### Steps That We Followed
 Step 1 - Data Cleaning
 Step 2 - Analysis
 Step 3 - Missing Value And Outliers Treatment
 Step 4 - Univariate Analysis
 Step 5 - Segmented Analysis 
 Step 6 - Bivariate Analysis
-
